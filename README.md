@@ -1,3 +1,119 @@
+# KAKENHI Application Generator GPT (科研費申請書作成GPT)
+
+> “Streamline your KAKENHI applications and increase your chances of success.”
+
+---
+
+## 📌 Overview
+
+**KAKENHI Application Generator GPT (科研費申請書作成GPT)** is a GPT-powered assistant designed to help university researchers create applications for Japan’s national research funding program, known as KAKENHI (Grants-in-Aid for Scientific Research), managed by the Japan Society for the Promotion of Science (JSPS).
+
+It automatically generates the key sections required in KAKENHI proposals — such as “Research Objectives,” “Research Plan,” and “Social Significance” — written in clear and formal Japanese suitable for official applications.
+
+---
+
+## ⚙️ Features
+
+✅ Specialized in creating drafts for KAKENHI (JSPS) applications  
+✅ Outputs key sections separately:
+- Research Objectives
+- Research Plan
+- Social Significance
+
+✅ Supports science and engineering fields  
+✅ Generates formal yet readable Japanese suitable for reviewers  
+✅ Asks follow-up questions if input details are insufficient
+
+---
+
+## 🎯 Example Prompts
+
+Simply input information like the examples below, and generate a KAKENHI proposal draft.
+
+```
+
+Please generate a KAKENHI application based on the following information:
+
+* Research Theme: New semiconductor design using AI
+* Keywords: Low power consumption, deep learning, design automation
+* Social Challenge: Energy saving and environmental impact reduction
+* Goal: Develop a semiconductor design method reducing power consumption by 30% compared to existing methods
+
+```
+```
+
+Please create only the Research Objectives section for a KAKENHI application.
+Research Theme: Performance improvement of next-generation lithium-ion batteries
+
+```
+
+---
+
+## 💻 Example Output
+
+> **【Research Objectives】**  
+> This research aims to establish a new semiconductor design method that utilizes AI technology, targeting a 30% reduction in power consumption compared to existing methods. The focus is on achieving design automation through deep learning for enhanced energy efficiency.
+> 
+> **【Research Plan】**  
+> First, the current semiconductor design processes will be analyzed to identify key factors affecting power efficiency. Next, deep learning algorithms will be developed for design automation and optimization methods will be examined. Finally, prototype circuits will be fabricated to verify performance improvements and power reduction compared to conventional methods.
+> 
+> **【Social Significance】**  
+> This research contributes to solving social challenges related to energy conservation and environmental protection. Low-power semiconductors can reduce energy costs across ICT equipment and serve as a vital technological foundation for achieving a carbon-neutral society.
+
+---
+
+## ✅ Use Cases
+
+- Creating initial drafts for KAKENHI proposals  
+- Refining wording to improve readability for reviewers  
+- Standardizing documents for joint applications across disciplines  
+- Saving time for busy researchers
+
+---
+
+## 🎯 Target Users
+
+- University researchers  
+- Early-career researchers and postdoctoral fellows  
+- University Research Administrators (URA)  
+- Graduate students preparing to apply for grants
+
+---
+
+## 💡 Why This Tool?
+
+KAKENHI applications require researchers to convey the appeal and social relevance of their work concisely within strict character limits.  
+**KAKENHI Application Generator GPT** helps researchers shape their ideas into clear and compelling documents, reducing the burden of preparing proposals and potentially improving acceptance rates.
+
+---
+
+## ⚠️ Disclaimer
+
+- This tool is intended for draft and reference purposes only.  
+- All final grant applications should be reviewed and refined by researchers and relevant support staff.  
+- KAKENHI application guidelines and requirements may change over time.
+
+---
+
+## 🚀 Future Plans
+
+- Improved support for English-language proposals  
+- Expanded templates for humanities and social sciences  
+- Advanced support for budget and schedule sections
+
+---
+
+## License
+
+MIT License
+
+---
+
+> “Streamline your KAKENHI applications and increase your chances of success.”
+
+[View 科研費申請書作成GPT on ChatGPT](https://chatgpt.com/g/g-6871b432eb8081919521342d15aa3cfb-yan-jiu-ji-hua-shu-asisutantogpt)
+```
+
 # 科研費申請書作成GPT
 
 科研費申請書作成GPT は、日本学術振興会（科研費）の申請書作成を支援する大学研究者向けの AI アシスタントです。
