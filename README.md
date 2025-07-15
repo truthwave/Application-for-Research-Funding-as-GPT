@@ -1,6 +1,6 @@
 # KAKENHI Application Generator GPT (科研費申請書作成GPT)
 
-> “Streamline your KAKENHI applications and increase your chances of success.”
+> **“Streamline your KAKENHI applications and increase your chances of success.”**
 
 ---
 
@@ -8,27 +8,54 @@
 
 **KAKENHI Application Generator GPT (科研費申請書作成GPT)** is a GPT-powered assistant designed to help Japanese university researchers draft proposals for KAKENHI, Japan’s national research funding program administered by the Japan Society for the Promotion of Science (JSPS).
 
-This tool automatically generates the core sections of a KAKENHI application—including **Research Objectives**, **Research Plan**, and **Social Significance**—using clear and formal Japanese suitable for official documents.
+This tool automatically generates the core sections of a KAKENHI application—including:
+
+- Research Objectives
+- Research Plan
+- Social Significance
+
+It uses clear and formal Japanese suitable for official documents.
 
 ---
 
 ## ⚙️ Key Features
 
-- ✅ Specialized in drafting KAKENHI (JSPS) applications
-- ✅ Outputs key sections individually:
-  - Research Objectives
-  - Research Plan
-  - Social Significance
-- ✅ Optimized for science and engineering fields
-- ✅ Produces formal yet readable Japanese tailored for reviewers
-- ✅ Asks follow-up questions if input information is insufficient
+✅ **Specialized for KAKENHI Proposals**
+
+- Generates drafts specifically for JSPS KAKENHI applications.
+
+---
+
+✅ **Outputs Individual Sections**
+
+- Research Objectives
+- Research Plan
+- Social Significance
+
+---
+
+✅ **Optimized for Science & Engineering Fields**
+
+- Uses terminology familiar to researchers in technical fields.
+
+---
+
+✅ **Formal yet Readable Japanese**
+
+- Writes text suitable for reviewers while remaining understandable.
+
+---
+
+✅ **Follow-Up Questions**
+
+- Asks clarifying questions if input information is insufficient.
 
 ---
 
 ## 🎯 Target Users
 
 - University researchers
-- Early-career researchers and postdoctoral fellows
+- Early-career researchers and postdocs
 - University Research Administrators (URA)
 - Graduate students planning to apply for grants
 
@@ -55,7 +82,7 @@ Please generate a KAKENHI application based on the following information:
 
 ---
 
-### GPT Example Output
+### ✅ GPT Example Output
 
 > **【Research Objectives】**  
 > This research aims to establish a new semiconductor design method that utilizes AI technology, targeting a 30% reduction in power consumption compared to existing methods. The focus is on achieving design automation through deep learning for enhanced energy efficiency.  
@@ -73,6 +100,7 @@ Please generate a KAKENHI application based on the following information:
 ```
 
 Please create only the Research Objectives section for a KAKENHI application.
+
 Research Theme: Performance improvement of next-generation lithium-ion batteries
 
 ```
@@ -105,7 +133,7 @@ KAKENHI applications demand concise, compelling narratives that fit strict chara
 
 ## 🌐 Demo
 
-[View 科研費申請書作成GPT on ChatGPT](https://chatgpt.com/g/g-6871b432eb8081919521342d15aa3cfb-yan-jiu-ji-hua-shu-asisutantogpt)
+[Try 科研費申請書作成GPT on ChatGPT](https://chatgpt.com/g/g-6871b432eb8081919521342d15aa3cfb-yan-jiu-ji-hua-shu-asisutantogpt)
 
 ---
 
@@ -124,6 +152,8 @@ I designed and developed this GPT, including:
 MIT License
 
 ---
+
+> **「科研費申請書を効率的に作成し、採択率を高める。」**
 
 ---
 
