@@ -1,3 +1,8 @@
+<p>
+<img width="1536" height="1024" alt="段落テキスト (4)" src="https://github.com/user-attachments/assets/cf09991d-85d8-4272-8ca3-2779c65fdcdf" />
+  
+</p>
+
 # 科研費申請書作成GPT
 
 > 「科研費申請書を効率的に作成し、採択率を高める。」
