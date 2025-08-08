@@ -1,6 +1,6 @@
 <p>
-<img width="1536" height="1024" alt="段落テキスト (4)" src="https://github.com/user-attachments/assets/cf09991d-85d8-4272-8ca3-2779c65fdcdf" />
-  
+  <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/b3d27f81-ffaf-4d34-a1dc-d3a6fa1126aa" />
+
 </p>
 
 # 科研費申請書作成GPT
