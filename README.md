@@ -1,6 +1,5 @@
-<p>
+<p align="center">
   <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/b3d27f81-ffaf-4d34-a1dc-d3a6fa1126aa" />
-
 </p>
 
 # 科研費申請書作成GPT
@@ -100,6 +99,9 @@
 [ともプログラム便り](https://github.com/TomoProgrammingDayori)
 
 ポートフォリオや他のAIツールもぜひご覧ください。
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
 
 ---
 
