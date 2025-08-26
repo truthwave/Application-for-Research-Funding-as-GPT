@@ -97,7 +97,7 @@
 
 ## 🧑‍💻 開発・提供者
 
-[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+[ともAI便り](https://github.com/TomoAIDayori)
 
 ポートフォリオや他のAIツールもぜひご覧ください。
 
