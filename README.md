@@ -97,7 +97,7 @@
 
 ## 🧑‍💻 開発・提供者
 
-[ともAI便り](https://github.com/TomoAIDayori)
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 
 ポートフォリオや他のAIツールもぜひご覧ください。
 
