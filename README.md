@@ -81,12 +81,6 @@
 
 ---
 
-## 🌐 デモで体験してみる
-
-👉 [ChatGPTで 科研費申請書作成GPT を開く](https://chatgpt.com/g/g-6871b432eb8081919521342d15aa3cfb-yan-jiu-ji-hua-shu-asisutantogpt)
-
----
-
 ## ⚠️ ご注意ください
 
 * 本ツールはドラフト作成・たたき台としての利用を想定しています。
