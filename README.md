@@ -8,6 +8,13 @@
 
 ---
 
+## プロジェクト概要
+[スライド資料はこちら](https://github.com/truthwave/Application-for-Research-Funding-as-GPT/tree/main/%E8%B3%87%E6%96%99/%E7%A7%91%E7%A0%94%E8%B2%BB%E7%94%B3%E8%AB%8B%E6%9B%B8GPT)
+
+[動画資料はこちら](https://youtu.be/AvgyISA1wyk)
+
+---
+
 ## 📌 なぜこのツールが必要なのか？
 
 毎年、数えきれないほどの研究アイデアが、\*\*「申請書の書き方がわからない」\*\*という理由で不採択になります。
