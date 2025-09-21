@@ -103,11 +103,11 @@ AIプロンプト設計・カスタマイズ・導入サポートをご希望の
 🎯 先着3名様限定｜初回販売キャンペーン中
 <br>初めての方にも安心してご利用いただけるよう、レビューにご協力いただける方へ特別価格でご提供しています。
 
-👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmfot5sar00xy8l0idss10dyx)
+### 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmfot5sar00xy8l0idss10dyx)
 
 研究テーマに基づき申請文を作成(オプション)
 
-👉 [オプションの販売ページを見る](https://coconala.com/services/3878963)
+#### 👉 [オプションの販売ページを見る](https://coconala.com/services/3878963)
 
 ## 🧑‍💻 開発・提供者
 
