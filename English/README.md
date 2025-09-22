@@ -131,12 +131,6 @@ KAKENHI applications demand concise, compelling narratives that fit strict chara
 
 ---
 
-## 🌐 Demo
-
-[Try 科研費申請書作成GPT on ChatGPT](https://chatgpt.com/g/g-6871b432eb8081919521342d15aa3cfb-yan-jiu-ji-hua-shu-asisutantogpt)
-
----
-
 ## 👨‍💻 My Role
 
 I designed and developed this GPT, including:
