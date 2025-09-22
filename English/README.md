@@ -1,4 +1,4 @@
-# KAKENHI Application Generator GPT (科研費申請書作成GPT)
+# KAKENHI Application Generator GPT 
 
 > **“Streamline your KAKENHI applications and increase your chances of success.”**
 
@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-**KAKENHI Application Generator GPT (科研費申請書作成GPT)** is a GPT-powered assistant designed to help Japanese university researchers draft proposals for KAKENHI, Japan’s national research funding program administered by the Japan Society for the Promotion of Science (JSPS).
+**KAKENHI Application Generator GPT** is a GPT-powered assistant designed to help Japanese university researchers draft proposals for KAKENHI, Japan’s national research funding program administered by the Japan Society for the Promotion of Science (JSPS).
 
 This tool automatically generates the core sections of a KAKENHI application—including:
 
@@ -144,9 +144,3 @@ I designed and developed this GPT, including:
 ## 📄 License
 
 MIT License
-
----
-
-> **「科研費申請書を効率的に作成し、採択率を高める。」**
-
----
