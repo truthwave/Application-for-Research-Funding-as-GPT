@@ -1,3 +1,8 @@
+<p align="center">
+<img width="1536" height="1024" alt="科研費申請書作成GPT" src="https://github.com/user-attachments/assets/6c2e85cb-c2d5-4064-8140-aef35dbc2b02" />
+
+</p>
+
 # KAKENHI Application Generator GPT 
 
 > **“Streamline your KAKENHI applications and increase your chances of success.”**
