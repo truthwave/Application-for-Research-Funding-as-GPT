@@ -21,7 +21,7 @@
 ---
 
 ## プロジェクト概要
-#### [スライド資料はこちら](https://github.com/truthwave/Application-for-Research-Funding-as-GPT/tree/main/%E8%B3%87%E6%96%99/%E7%A7%91%E7%A0%94%E8%B2%BB%E7%94%B3%E8%AB%8B%E6%9B%B8GPT)
+#### [スライド資料はこちら](https://github.com/truthwave/Application-for-Research-Funding-as-GPT/blob/main/%E8%B3%87%E6%96%99/%E7%A7%91%E7%A0%94%E8%B2%BB%E7%94%B3%E8%AB%8B%E6%9B%B8GPT.pdf)
 
 #### [動画資料はこちら](https://youtu.be/AvgyISA1wyk)
 
