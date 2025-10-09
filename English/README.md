@@ -1,151 +1,122 @@
+# Grant Proposal Writing GPT
+
+> **Research should never be killed by the way it's written.**
+> This tool transforms your research into words that truly communicate.
+
 <p align="center">
 <img width="1536" height="1024" alt="科研費申請書作成GPT" src="https://github.com/user-attachments/assets/6c2e85cb-c2d5-4064-8140-aef35dbc2b02" />
 
 </p>
 
-# KAKENHI Application Generator GPT 
+---
 
-> **“Streamline your KAKENHI applications and increase your chances of success.”**
+## Why You Need It
+
+Brilliant research gets buried simply because of how the proposal is written.
+Grant Proposal Writing GPT changes that reality.
+
+Transforming researchers' passion into—
+clear, compelling proposals.
 
 ---
 
-## 📌 Overview
-
-**KAKENHI Application Generator GPT** is a GPT-powered assistant designed to help Japanese university researchers draft proposals for KAKENHI, Japan’s national research funding program administered by the Japan Society for the Promotion of Science (JSPS).
-
-This tool automatically generates the core sections of a KAKENHI application—including:
-
-- Research Objectives
-- Research Plan
-- Social Significance
-
-It uses clear and formal Japanese suitable for official documents.
+## 💬 What It Does
+- Automatically generates proposals tailored to Grant-in-Aid for Scientific Research
+- Clearly organizes “Research Objectives,” “Research Plan,” and “Social Significance”
+- Converts text into language reviewers understand
+- Handles specialized terminology naturally
 
 ---
 
-## ⚙️ Key Features
+## 🛠 How to Use
 
-✅ **Specialized for KAKENHI Proposals**
-
-- Generates drafts specifically for JSPS KAKENHI applications.
-
----
-
-✅ **Outputs Individual Sections**
-
-- Research Objectives
-- Research Plan
-- Social Significance
+1. Enter your theme, keywords, and societal challenge<br>
+2. GPT generates a draft in seconds<br>
+3. You can “Focus on your research”
 
 ---
 
-✅ **Optimized for Science & Engineering Fields**
+## 💻 That's all there is to it
 
-- Uses terminology familiar to researchers in technical fields.
-
----
-
-✅ **Formal yet Readable Japanese**
-
-- Writes text suitable for reviewers while remaining understandable.
-
----
-
-✅ **Follow-Up Questions**
-
-- Asks clarifying questions if input information is insufficient.
-
----
-
-## 🎯 Target Users
-
-- University researchers
-- Early-career researchers and postdocs
-- University Research Administrators (URA)
-- Graduate students planning to apply for grants
-
----
-
-## 💻 Usage Examples
-
-Here’s how you might use this GPT:
-
----
-
-### Example Prompt 1
+### Step 1: Input your information
 
 ```
-
-Please generate a KAKENHI application based on the following information:
-
-* Research Theme: New semiconductor design using AI
-* Keywords: Low power consumption, deep learning, design automation
-* Social Challenge: Energy saving and environmental impact reduction
-* Goal: Develop a semiconductor design method reducing power consumption by 30% compared to existing methods
-
+Research Theme: New semiconductor design utilizing AI  
+Keywords: Low power consumption, Deep learning, Design automation  
+Social Issue: Energy conservation and environmental impact reduction  
+Goal: Establish a semiconductor design methodology reducing power consumption by 30% compared to conventional methods
 ```
 
 ---
 
-### ✅ GPT Example Output
+### Step 2: GPT rewrites it into “clear language”
 
-> **【Research Objectives】**  
-> This research aims to establish a new semiconductor design method that utilizes AI technology, targeting a 30% reduction in power consumption compared to existing methods. The focus is on achieving design automation through deep learning for enhanced energy efficiency.  
->  
-> **【Research Plan】**  
-> First, the current semiconductor design processes will be analyzed to identify key factors affecting power efficiency. Next, deep learning algorithms will be developed for design automation and optimization methods will be examined. Finally, prototype circuits will be fabricated to verify performance improvements and power reduction compared to conventional methods.  
->  
-> **【Social Significance】**  
-> This research contributes to solving social challenges related to energy conservation and environmental protection. Low-power semiconductors can reduce energy costs across ICT equipment and serve as a vital technological foundation for achieving a carbon-neutral society.
+> 【Research Objective】
+> This research aims to establish a new semiconductor design methodology utilizing AI technology capable of reducing power consumption by 30% compared to conventional methods.
+>
+> 【Social Significance】
+> This research seeks to build a technological foundation contributing to energy conservation and reduced environmental impact. It will enhance the overall energy efficiency of ICT devices and contribute to realizing a carbon-neutral society.
 
 ---
 
-### Example Prompt 2
+## 📸 **Experience Image**
 
-```
 
-Please create only the Research Objectives section for a KAKENHI application.
-
-Research Theme: Performance improvement of next-generation lithium-ion batteries
-
-```
 
 ---
 
-## ✅ Use Cases
+## 🧠 Before → After
 
-- Drafting initial KAKENHI proposals
-- Refining wording for better reviewer comprehension
-- Standardizing documents in collaborative projects
-- Saving time for busy researchers
+**Before**
+- Have ideas but struggle to organize them
+- Long, hard-to-read documents
+- Time consumed by document creation
 
----
-
-## 💡 Why This Tool?
-
-KAKENHI applications demand concise, compelling narratives that fit strict character limits while conveying both academic significance and social relevance.  
-**KAKENHI Application Generator GPT** helps researchers shape their ideas into well-structured documents, easing the burden of proposal writing and potentially boosting acceptance rates.
+**After**
+- Clearly structured first drafts completed in minutes
+- Reader-friendly organization
+- Freed-up time redirected to core research
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Important Notes
 
-- This tool provides drafts for reference purposes only.
-- All final applications should be reviewed and refined by researchers and university research offices.
-- KAKENHI guidelines and requirements may change over time.
+* This tool is intended for creating drafts and working versions.
+* **Researchers must review and revise** their work before final submission.
+* Grant application formats may change annually.
 
 ---
 
-## 👨‍💻 My Role
+## 🛒 Try It Now
 
-I designed and developed this GPT, including:
+This project is currently available as a paid version on Coconala.  
+For AI prompt design, customization, or implementation support, please inquire below.
 
-- Prompt engineering tailored to Japanese research funding terminology
-- UX design for easy and efficient user interactions
-- Testing and refining output to ensure formal and persuasive language suitable for grant applications
+
+### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmfot5sar00xy8l0idss10dyx)
+
+Create application documents based on your research theme (Optional)
+
+#### 👉 [View the optional sales page](https://coconala.com/services/3878963)
+
+---
+
+## 🧑‍💻 Developer & Provider
+
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+
+Please also check out our portfolio and other AI tools.
+
+## Feel free to contact us
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
 
 ---
 
 ## 📄 License
 
 MIT License
+
+---
+## 🏁 Closing Thoughts
+> “Freedom for research. Don't let paperwork steal your time.”
+
