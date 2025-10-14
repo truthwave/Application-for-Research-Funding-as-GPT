@@ -19,7 +19,6 @@
 読みやすく、説得力ある申請書へ。
 
 ---
-<img width="1280" height="720" alt="科研費" src="https://github.com/user-attachments/assets/ecac9ca3-dff0-4d84-9c30-71be188b22ea" />
 
 ## プロジェクト概要
 
