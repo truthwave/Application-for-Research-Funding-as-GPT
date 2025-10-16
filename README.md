@@ -7,7 +7,6 @@
   <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/b3d27f81-ffaf-4d34-a1dc-d3a6fa1126aa" />
 </p>
 
-
 ---
 
 ## なぜ必要か
