@@ -4,7 +4,7 @@
 > This tool transforms your research into words that truly communicate.
 
 <p align="center">
-<img width="1536" height="1024" alt="科研費申請書作成GPT" src="https://github.com/user-attachments/assets/6c2e85cb-c2d5-4064-8140-aef35dbc2b02" />
+<img width="1536" height="1024" alt="科研費 (2)" src="https://github.com/user-attachments/assets/bc254c53-723d-4c53-82d1-44d6069b9899" />
 
 </p>
 
