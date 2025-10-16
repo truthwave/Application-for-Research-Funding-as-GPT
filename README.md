@@ -4,7 +4,7 @@
 > このツールは、あなたの研究を「伝わる言葉」に変える。
 
 <p align="center">
-  <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/b3d27f81-ffaf-4d34-a1dc-d3a6fa1126aa" />
+<img width="1536" height="1024" alt="科研費 (1)" src="https://github.com/user-attachments/assets/79db1d20-6051-4dc9-a404-e22db5539a80" />
 </p>
 
 ---
