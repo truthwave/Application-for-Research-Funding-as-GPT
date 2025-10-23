@@ -4,8 +4,7 @@
 > This tool transforms your research into words that truly communicate.
 
 <p align="center">
-<img width="1536" height="1024" alt="科研費 (2)" src="https://github.com/user-attachments/assets/bc254c53-723d-4c53-82d1-44d6069b9899" />
-
+<img width="1536" height="1024" alt="科研費" src="https://github.com/user-attachments/assets/72927534-6056-4709-a230-03e932b97102" />
 </p>
 
 ---
