@@ -18,10 +18,11 @@
 読みやすく、説得力ある申請書へ。
 
 ---
+<img width="1280" height="720" alt="科研費" src="https://github.com/user-attachments/assets/2c824050-77a1-4bc4-9ccd-0822e1cf1ac8" />
 
 ## プロジェクト概要
 
-[![科研費が通らない本当の理由｜研究者の“伝わらない悩み”をAIが解決する](https://github.com/user-attachments/assets/5c13fcdf-31ca-4f7c-af81-a17b5d885387)](https://youtu.be/AvgyISA1wyk)
+[![科研費が通らない本当の理由｜研究者の“伝わらない悩み”をAIが解決する](https://github.com/user-attachments/assets/2c824050-77a1-4bc4-9ccd-0822e1cf1ac8)](https://youtu.be/AvgyISA1wyk)
 
 #### [スライド資料はこちら](https://github.com/truthwave/Application-for-Research-Funding-as-GPT/blob/main/%E8%B3%87%E6%96%99/%E7%A7%91%E7%A0%94%E8%B2%BB%E7%94%B3%E8%AB%8B%E6%9B%B8GPT.pdf)
 
