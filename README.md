@@ -18,8 +18,6 @@
 読みやすく、説得力ある申請書へ。
 
 ---
-![科研費](https://github.com/user-attachments/assets/5c13fcdf-31ca-4f7c-af81-a17b5d885387)
-
 
 ## プロジェクト概要
 
