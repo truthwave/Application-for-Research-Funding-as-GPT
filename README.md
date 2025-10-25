@@ -20,7 +20,6 @@
 ---
 
 ## プロジェクト概要
-<img width="1280" height="720" alt="科研費 (2)" src="https://github.com/user-attachments/assets/4b251e96-c39d-4b5c-abec-17e7c63a3d66" />
 
 [![科研費が通らない本当の理由｜研究者の“伝わらない悩み”をAIが解決する](https://github.com/user-attachments/assets/4b251e96-c39d-4b5c-abec-17e7c63a3d66)](https://youtu.be/AvgyISA1wyk)
 
