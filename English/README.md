@@ -10,7 +10,6 @@
 ---
 
 ## Project Overview
-<img width="1280" height="720" alt="科研費" src="https://github.com/user-attachments/assets/3837594b-fc71-4ce4-a0d9-67fdb7911416" />
 
 [![The Real Reason Grants Get Rejected｜AI Solves Researchers' “Communication Woes”](https://github.com/user-attachments/assets/3837594b-fc71-4ce4-a0d9-67fdb7911416)](https://youtu.be/AvgyISA1wyk)
 
