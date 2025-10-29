@@ -9,6 +9,15 @@
 
 ---
 
+## Project Overview
+<img width="1280" height="720" alt="科研費" src="https://github.com/user-attachments/assets/3837594b-fc71-4ce4-a0d9-67fdb7911416" />
+
+[![The Real Reason Grants Get Rejected｜AI Solves Researchers' “Communication Woes”](https://github.com/user-attachments/assets/3837594b-fc71-4ce4-a0d9-67fdb7911416)](https://youtu.be/AvgyISA1wyk)
+
+#### [Slide Materials Here](https://github.com/truthwave/Application-for-Research-Funding-as-GPT/blob/main/English/Materials/Grant%20Proposal%20Writing%20GPT.pdf)
+
+---
+
 ## Why You Need It
 
 Brilliant research gets buried simply because of how the proposal is written.
