@@ -62,9 +62,7 @@ Goal: Establish a semiconductor design methodology reducing power consumption by
 
 ![Demo](https://github.com/truthwave/Application-for-Research-Funding-as-GPT/blob/main/English/Materials/Demo%20Movie.gif)
 
-![](https://github.com/truthwave/Application-for-Research-Funding-as-GPT/blob/main/English/Materials/Screenshot/research-proposal-heat-island.jpeg)
-![](https://github.com/truthwave/Application-for-Research-Funding-as-GPT/blob/main/English/Materials/Screenshot/research-proposal-semiconductor-design-ai.jpeg)
-
+### [Screenshot](https://github.com/truthwave/Application-for-Research-Funding-as-GPT/tree/main/English/Materials/Screenshot)
 
 ---
 
