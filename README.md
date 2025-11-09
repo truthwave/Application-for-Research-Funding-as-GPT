@@ -105,6 +105,8 @@ AIプロンプト設計・カスタマイズ・導入サポートをご希望の
 
 ### 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmfot5sar00xy8l0idss10dyx)
 
+### 👉 [noteの販売ページを見る](https://note.com/truth_wave/n/nc52a65f9bb28)
+
 研究テーマに基づき申請文を作成(オプション)
 
 #### 👉 [オプションの販売ページを見る](https://coconala.com/services/3878963)
