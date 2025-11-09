@@ -105,6 +105,8 @@ For AI prompt design, customization, or implementation support, please inquire b
 
 ### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmfot5sar00xy8l0idss10dyx)
 
+### 👉 [View the note Sales Page](https://note.com/truth_wave/n/nc52a65f9bb28)
+
 Create application documents based on your research theme (Optional)
 
 #### 👉 [View the optional sales page](https://coconala.com/services/3878963)
