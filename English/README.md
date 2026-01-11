@@ -9,12 +9,11 @@
 
 ---
 
-## Project Overview
-
-### Watch on YouTube
-[![The Real Reason Grants Get Rejected｜AI Solves Researchers' “Communication Woes”](https://github.com/user-attachments/assets/3837594b-fc71-4ce4-a0d9-67fdb7911416)](https://youtu.be/AvgyISA1wyk)
-
-#### [Slide Materials Here](https://github.com/truthwave/Application-for-Research-Funding-as-GPT/blob/main/English/Materials/Grant%20Proposal%20Writing%20GPT.pdf)
+## 💬 What It Does
+- Automatically generates proposals tailored to Grant-in-Aid for Scientific Research
+- Clearly organizes “Research Objectives,” “Research Plan,” and “Social Significance”
+- Converts text into language reviewers understand
+- Handles specialized terminology naturally
 
 ---
 
@@ -25,14 +24,6 @@ Grant Proposal Writing GPT changes that reality.
 
 Transforming researchers' passion into—
 clear, compelling proposals.
-
----
-
-## 💬 What It Does
-- Automatically generates proposals tailored to Grant-in-Aid for Scientific Research
-- Clearly organizes “Research Objectives,” “Research Plan,” and “Social Significance”
-- Converts text into language reviewers understand
-- Handles specialized terminology naturally
 
 ---
 
