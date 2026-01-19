@@ -88,16 +88,21 @@ Goal: Establish a semiconductor design methodology reducing power consumption by
 
 ---
 
-## 🛒 Try It Now
+## Trying Out Truth Wave GPTs
 
-This project is currently available as a paid version.  
-For AI prompt design, customization, or implementation support, please inquire below.
+The content written in this blog
+is designed to be usable as a “fully functional GPT.”
 
-### 👉 [View the note Sales Page](https://note.com/truth_wave/n/nc52a65f9bb28)
+- For those who want everything organized (GPT core + optional materials)
+  This plan bundles the GPT core with optional materials like
+  checklists and templates into a complete set.
+### [→ Truth Wave GPTs Set (GPT + Optional Materials Included)](https://note.com/truth_wave/n/n1b0f4dd86712)
 
-Create application documents based on your research theme (Optional)
 
-#### 👉 [View the optional sales page](https://coconala.com/services/3878963)
+- For those who want to try just one thing first (GPT core only)
+This is for those who want to use only the GPT core for this specific theme, pinpointing exactly what they need.
+#### [→ Try this GPT as a standalone item (GPT core only)](https://note.com/truth_wave/n/nc52a65f9bb28)
+
 
 ---
 
